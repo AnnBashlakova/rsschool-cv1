@@ -36,3 +36,8 @@ I believe in myself and my skills.<br> So that soon my web developer skills will
 - Git, GitHub
 - VS Code
 - QA masterclass (ITea)
+
+### Languages:
+
+- English (A2) 
+- Russian Native
